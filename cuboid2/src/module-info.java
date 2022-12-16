@@ -1,0 +1,2 @@
+module cuboid2 {
+}

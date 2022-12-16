@@ -1,0 +1,2 @@
+module mid1 {
+}
